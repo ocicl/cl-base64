@@ -1,0 +1,9 @@
+* cl-base64
+
+Common Lisp base64 library
+
+|---------+---------------------------------------------|
+| source  | git:https://github.com/darabi/cl-base64.git |
+| commit  | 80496b7                                     |
+| systems | cl-base64                                   |
+|---------+---------------------------------------------|
