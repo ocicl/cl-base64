@@ -3,7 +3,7 @@
 Common Lisp base64 library
 
 |---------+---------------------------------------------|
-| source  | git:https://github.com/darabi/cl-base64.git |
-| commit  | 80496b7                                     |
+| source  | git:https://github.com/jdz/cl-base64.git    |
+| commit  | b719336                                     |
 | systems | cl-base64                                   |
 |---------+---------------------------------------------|
